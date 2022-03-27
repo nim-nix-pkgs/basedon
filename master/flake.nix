@@ -11,7 +11,6 @@
   inputs.src-basedOn-master.ref   = "refs/heads/master";
   inputs.src-basedOn-master.owner = "KaceCottam";
   inputs.src-basedOn-master.repo  = "basedOn";
-  inputs.src-basedOn-master.dir   = "";
   inputs.src-basedOn-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
