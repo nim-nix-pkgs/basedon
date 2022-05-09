@@ -7,7 +7,7 @@
   "license": "MIT",
   "web": "https://github.com/KaceCottam/basedOn",
   "refs": [
-    "fatal: unable to access 'https://github.com/KaceCottam/basedOn/': Error in the HTTP2 framing layer",
+    "fatal: unable to access 'https://github.com/KaceCottam/basedOn/': SSL connection timeout",
     ""
   ],
   "heads": []
